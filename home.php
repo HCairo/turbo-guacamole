@@ -19,7 +19,7 @@
         
         <section>
             <h1>Bienvenue sur Turbo-Guacamole</h1>
-            <div class="mimg"></div>
+            <div class="mimg"><img src="img/banner.webp" alt=""></div>
         </section>
     </body>
 </html>

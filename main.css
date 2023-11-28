@@ -58,7 +58,9 @@ a img{
 
 /* MENU */
 
-.mimg{
+.mimg img{
+    margin-top: 20px;
     width: 100%;
-    background-image: url(img/banner.webp);
+    height: 20%;
+    border-radius: 16px;
 }
