@@ -9,6 +9,7 @@
 <body>
     <h1>Ordre de gros lardon</h1>
     <p>Arrêtez de manger du saucisson</p>
+    <p>STOP</p>
 </body>
 </html>
 <?
