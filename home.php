@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Shnakrs</title>
         <link rel="stylesheet" href="main.css">
-        <link rel="shortcut icon" href="logo.ico"/>
-        <link rel="apple-touch-icon" href="logo.ico"/>
+        <link rel="shortcut icon" href="img/logo.ico"/>
+        <link rel="apple-touch-icon" href="img/logo.ico"/>
     </head>
     <body>
         <header>
@@ -22,6 +22,8 @@
         <section>
             <h1>Bienvenue sur Shnakrs</h1>
             <p>Le meilleur endroit pour partager tes outfits et discuter avec des personnes qui ont les mêmes intérêts que toi.</p>
+            <h2>Derniers posts</h2>
+            <div class="postone"></div>
         </section>
     </body>
 </html>
