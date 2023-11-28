@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@400;500;600;700;800;900&display=swap');
 
+/* GLOBAL */
+
+
+/* /\ VARIABLES /\ */
 :root{
     --white: #F6E3AE;
     --black: #1c2222;
     --red: #EF383D;
     --bleen: #1B9E72;
 }
+
+/* /\ VARIABLES /\ */
 
 *{
     margin: 0;
@@ -17,6 +23,17 @@ body{
     background: var(--white);
     font-family: 'Prompt', sans-serif;
 }
+
+/* GLOBAL */
+
+/* TITLES */
+
+h1{
+    color: var(--red);
+    text-decoration: double;
+}
+
+/* TITLES */
 
 /* MENU */
 
@@ -38,10 +55,5 @@ a img{
     height: 100px;
 }
 
-/* FIN DU MENU */
-
-h1{
-    color: var(--red);
-    text-decoration: double;
-}
+/* MENU */
 

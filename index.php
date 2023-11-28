@@ -4,22 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Turbo-Guacamole</title>
-        <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        <header>
-            <nav id="menu">
-                <a href="#">Accueil</a>
-                <a href="#">Turbo</a>
-                <a href="#"><img src="img/ZCvptdMUvrVrUV9MU8Xo--1--x9396.jpg" alt="Logo"></a>
-                <a href="#">Guacamole</a>
-                <a href="#">Oskour</a>
-            </nav>
-        </header>
-        
-        <h1>Ordre de gros lardon</h1>
-        <p>Arrêtez de manger du saucisson</p>
-        <p>STOP</p>
     </body>
 </html>
 <?
