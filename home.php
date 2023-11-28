@@ -10,9 +10,9 @@
         <header>
             <nav id="menu">
                 <a href="#">Accueil</a>
-                <a href="#">Turbo</a>
+                <a href="#">Gallerie</a>
                 <a href="#"><img src="img/ZCvptdMUvrVrUV9MU8Xo--1--x9396.jpg" alt="Logo"></a>
-                <a href="#">Guacamole</a>
+                <a href="#">Contact</a>
                 <a href="#">Oskour</a>
             </nav>
         </header>
